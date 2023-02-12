@@ -20,7 +20,7 @@ I like to develp web apps.
 [![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/olmos-dev)
 
 ## 📧 Contact me 
-Send me a message at gmail.com
+
 
 
 
