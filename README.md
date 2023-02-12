@@ -1,7 +1,16 @@
-### Welcome to my Profile👋
-I'm Alberto Olmos Web Developer.
+
+# Hi, I'm Alberto!
+
+
+## 🚀 About Me
+I'm a back-end developer.
+I like to develp web apps. 
 
 ## 🛠 Skills
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+
+
+
 
 <!--
 **olmos-dev/olmos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
