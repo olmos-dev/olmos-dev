@@ -20,7 +20,7 @@ I like to develp web apps.
 [![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/olmos-dev)
 
 ## Contact me 📧
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg "MarineGEO logo")
 Send me a message at gmail.com
 
 
