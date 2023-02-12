@@ -7,7 +7,7 @@ I'm a back-end developer.
 I like to develp web apps. 
 
 ## 🛠 Skills
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/olmos-dev)
 
 
 
