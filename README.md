@@ -41,4 +41,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+notes:
+https://readme.so/es/editor
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 -->
