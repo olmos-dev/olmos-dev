@@ -5,7 +5,8 @@
 
 ## 🚀 About Me 
 I'm a back-end developer.
-I like to develp web apps. 
+I develop traditional web apps using Laravel such as modern web apps integrying VUE; applying desing pattern as MVC, POO and API RESTful.
+Also I do front-end for better performance and user experience and hight knowledge for desing, modeling and creating Databases. 
 
 ## 🛠 Skills 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/olmos-dev)
