@@ -1,20 +1,20 @@
 
 
-# Hi, I'm Alberto! 👋
+# Hi, I'm Alberto Web Developer! 👋
 
 
 ## 🚀 About Me 
-I'm a back-end developer.
-I develop traditional web apps using Laravel such as modern web apps integrating Vue; applying pattern design as MVC, POO and API RESTful.
-Also I do front-end for better performance UI and high knowledge for design , modeling and creating Databases. 
+I am a web developer with experience in building websites and applications. I use frameworks like Django and Laravel, and have strong skills in database design, POO, MVC, ORM and develiment. Proficiency in HTML, CSS, JavaScript, PHP, Python, and SQL. I use GitHub for version control. I am actively seeking opportunities to join a team and contribute to challenging projects.
 
 ## 🛠 Skills 
 
 #### Programing languagues
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/olmos-dev)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 #### Frameworks
+[![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
@@ -37,7 +37,7 @@ Also I do front-end for better performance UI and high knowledge for design , mo
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/olmos-dev)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[![AJAX](https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/AJAX)
 
 
 ## 📧 Contact me 
